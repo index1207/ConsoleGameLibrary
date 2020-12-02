@@ -13,20 +13,24 @@ This library provides useful features for creating console games.
 
 ## Functions
 
-### Clear(void)
-    Clear Console Screen
+#### Clear(void)
+  Clear Console Screen
 
-### CursorShow(bool)
-    Presence or absence of a cursor on the screen
+#### CursorShow(bool)
+  Presence or absence of a cursor on the screen
 
-### gotoxy(short x, short y)
-    Go to specified coordinates
+#### gotoxy(short x, short y)
 
-### SetConsoleSize(short x, short y)
-    Change the console size
+  Go to specified coordinates
 
-### TextColor(unsigned int color, const char * string)
-    Change text color and print
+#### SetConsoleSize(short x, short y)
 
-### KeyCode(const char)
-    Returns the key code from A to Z
+  Change the console size
+
+#### TextColor(unsigned int color, const char * string)
+
+  Change text color and print
+
+#### KeyCode(const char)
+
+  Returns the key code from A to Z
