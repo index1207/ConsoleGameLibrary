@@ -1,4 +1,6 @@
 # Console Game Library
+~~**This is a poor library**~~
+
 
 It is a 64-bit library
 
