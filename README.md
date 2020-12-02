@@ -10,6 +10,7 @@ This library provides useful features for creating console games.
 
 <div>
   <img width="540" src="https://user-images.githubusercontent.com/63224377/100871354-7fb94180-34e3-11eb-8e48-2b48b9071208.png">
+  <img width="250" src="https://user-images.githubusercontent.com/63224377/100874923-a168f780-34e8-11eb-9014-17ba14ee510e.PNG">
 </div>
 
 
